@@ -1,5 +1,5 @@
 
-# <a href="https://goutamweatherapp.netlify.app/"> WeatherApp <a/>
+# <a href="https://weather-app-goutampatel.netlify.app/"> WeatherApp <a/>
 
 Weather App Create using HTML, CSS, JavaScript
 ## API Use in this Project
